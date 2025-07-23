@@ -22,12 +22,12 @@
 
 ## 🚀 Next Steps
 - Build a Tableau dashboard
-- Publish on LinkedIn with insights
+
 
 ## 🗓️ Timeline
 - SQL Project: ✅  
 - Tableau Dashboard: ⏳  
-- LinkedIn Post: ⏳
+
 
 ---
 
