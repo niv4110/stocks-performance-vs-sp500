@@ -1,0 +1,9 @@
+Ticker,name,sector,industry,headquarters
+AAPL,Apple Inc.,Technology,Consumer Electronics,"Cupertino, CA"
+AMZN,Amazon.com Inc.,Consumer Disc,E-commerce,"Seattle, WA"
+AVGO,Broadcom Inc.,Technology,Semiconductors,"San Jose, CA"
+GOOGL,Alphabet Inc.,Communication,Online Advertising,"Mountain View, CA"
+META,Meta Platforms,Communication,Social Media,"Menlo Park, CA"
+MSFT,Microsoft Corp.,Technology,Software,"Redmond, WA"
+NVDA,NVIDIA Corp.,Technology,Semiconductors,"Santa Clara, CA"
+TSLA,Tesla Inc.,Consumer Disc,Automotive & Energy,"Austin, TX"
