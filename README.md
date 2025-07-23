@@ -20,14 +20,23 @@
 - `sharpe_ratio_comparison`
 - `total_returns_comparison`
 
+## 📂 Data Files
+
+To replicate the analysis, import the following CSV files into your MySQL database:
+
+- `stock_prices.csv` → table: `stock_prices`
+- `sp500_daily_data.csv` → table: `sp500_daily`
+- `Stocks_Table_Preview.csv` → table: `stocks`
+
+These files are available in the `data/` folder of this repository.
+Make sure to load the data after creating the tables using the SQL schema file.
+
 ## 🚀 Next Steps
 - Build a Tableau dashboard
-
 
 ## 🗓️ Timeline
 - SQL Project: ✅  
 - Tableau Dashboard: ⏳  
-
 
 ---
 
